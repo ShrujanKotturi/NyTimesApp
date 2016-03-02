@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NyTimesApp</string>
+    <string name="SubmitButton">Submit</string>
+    <string name="StoryTitle">Story Title</string>
+    <string name="StoryByline">Story Byline</string>
+    <string name="AbstractTitle">Abstract</string>
+    <string name="AbstractDesc">AbstractDesc</string>
+    <string name="textViewAbstract">Abstract</string>
+</resources>
